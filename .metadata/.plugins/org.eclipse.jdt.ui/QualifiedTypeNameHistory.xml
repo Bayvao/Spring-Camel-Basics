@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.cts.CamelHelloWorld"/>
+    <fullyQualifiedTypeName name="com.cts.MyRouteBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="org.apache.camel.CamelContext"/>
+    <fullyQualifiedTypeName name="org.apache.camel.impl.DefaultCamelContext"/>
+    <fullyQualifiedTypeName name="org.apache.camel.RoutesBuilder"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\Spring and Hibernate\Spring-Boot-Camel\.metadata\.plugins\org.eclipse.jdt.core
+1231307017.index
+1335009872.index
+18122827.index

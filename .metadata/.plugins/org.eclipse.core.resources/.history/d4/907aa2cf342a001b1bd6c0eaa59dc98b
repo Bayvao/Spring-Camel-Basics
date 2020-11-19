@@ -1,0 +1,13 @@
+package com.cts;
+
+import org.apache.camel.CamelContext;
+import org.apache.camel.RoutesBuilder;
+
+public class MyRouteBuilder implements RoutesBuilder {
+
+	public void addRoutesToCamelContext(CamelContext context) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
