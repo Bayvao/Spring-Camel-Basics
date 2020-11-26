@@ -48,6 +48,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="camel-database"/>
+			<item value="camel-timer-component"/>
 			<item value="camel-standalone"/>
 		</list>
 		<list key="projectNameTemplate">
